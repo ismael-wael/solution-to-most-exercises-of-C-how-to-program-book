@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530312553 source:c:\users\shiko.ismaelwael\desktop\c programming\c programs\ch.5\exercises\5.15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1530312553 source:c:\users\shiko.ismaelwael\desktop\c programming\c programs\ch.5\exercises\5.15(hypotenuse of a right triangle)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

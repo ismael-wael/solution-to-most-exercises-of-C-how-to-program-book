@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1585302869 source:c:\users\elsa7er\desktop\engineering\track ii\later\c how to program\exercises\ch.12\stack\polish_notation(waleed_yousef)\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1585328645 c:\users\elsa7er\desktop\engineering\track ii\later\c how to program\exercises\ch.12\stack\polish_notation(waleed_yousef)\stack.h
+
+1585328622 source:c:\users\elsa7er\desktop\engineering\track ii\later\c how to program\exercises\ch.12\stack\polish_notation(waleed_yousef)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	<math.h>
+
+1587394485 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\stack\polish_notation(waleed_yousef)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	<math.h>
+
+1585328645 c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\stack\polish_notation(waleed_yousef)\stack.h
+
+1585302869 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\stack\polish_notation(waleed_yousef)\stack.c
+	"stack.h"
+	<stdlib.h>
+

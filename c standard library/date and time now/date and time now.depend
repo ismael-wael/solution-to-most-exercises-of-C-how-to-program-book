@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555725759 source:d:\embedded\c how to program\exercises\c standard library\date and time now\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

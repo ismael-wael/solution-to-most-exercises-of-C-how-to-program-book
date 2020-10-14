@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1552080697 source:c:\users\lenovo\desktop\0\c & c++\c programs\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1552080697 source:c:\users\lenovo\desktop\0\mind\c\c programs\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575111307 source:d:\focus\c how to program chapter 5 & 6\exercises\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1576229806 source:d:\focus\software track\c\c how to program chapter 5 & 6\exercises\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577305407 source:d:\embedded\software track\c how to program chapter 5 & 6\exercises\try it\11.c
+
+1577324517 source:d:\embedded\software track\c how to program chapter 5 & 6\exercises\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LIB_stdTypes.h"
+
+1576230264 d:\embedded\software track\c how to program chapter 5 & 6\exercises\try it\lib_stdtypes.h
+
+1583748649 source:d:\embedded\c how to program\exercises\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576230264 d:\embedded\c how to program\exercises\try it\lib_stdtypes.h
+
+1585328126 source:c:\users\elsa7er\desktop\data structure - waleed yousef\exercises\try it\main.c
+	<stdio.h>
+	<math.h>
+	"stack.h"
+
+1585234281 source:c:\users\elsa7er\desktop\data structure - waleed yousef\exercises\try it\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1585328065 c:\users\elsa7er\desktop\data structure - waleed yousef\exercises\try it\stack.h
+
+1585234281 source:c:\users\elsa7er\desktop\engineering\track ii\later\c how to program\exercises\try it\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1585328065 c:\users\elsa7er\desktop\engineering\track ii\later\c how to program\exercises\try it\stack.h
+
+1585779601 source:c:\users\elsa7er\desktop\engineering\track ii\later\c how to program\exercises\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"stack.h"
+
+1585234281 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\try it\stack.c
+	"stack.h"
+	<stdlib.h>
+
+1585328065 c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\try it\stack.h
+
+1587397723 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601986015 source:d:\career\books\c\c how to program\try it\main.c
+	<stdio.h>
+	<stdlib.h>
+

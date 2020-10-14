@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586051822 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\lists\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1586317558 c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\lists\list\list.h
+
+1586317119 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\lists\list\list.c
+	"list.h"
+	<stdlib.h>
+

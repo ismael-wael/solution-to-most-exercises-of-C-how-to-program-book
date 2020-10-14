@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530110338 source:c:\users\shiko.ismaelwael\desktop\c programming\c programs\ch.5\studying trials\randomizing_random_variable_generator(time version)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

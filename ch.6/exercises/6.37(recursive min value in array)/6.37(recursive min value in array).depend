@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576405889 source:d:\embedded\software track\c how to program chapter 5 & 6\exercises\ch.6\exercises\6.37(recursive min value in array)\main.c
+	<stdio.h>
+	<stdlib.h>
+

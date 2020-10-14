@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587413217 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\stack\polish_notation\stack.c
+	"stack.h"
+	<stdlib.h>
+	<string.h>
+
+1587409805 c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\stack\polish_notation\stack.h
+
+1587429366 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\stack\polish_notation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

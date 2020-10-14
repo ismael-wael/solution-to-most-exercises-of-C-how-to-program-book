@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571500452 source:d:\embedded\software track\c how to program chapter 5 & 6\exercises\appendix d - sorting\sorting\bubble sort with flag\main.c
+	<stdio.h>
+	<stdlib.h>
+

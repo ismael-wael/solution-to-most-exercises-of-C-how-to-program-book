@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531927830 source:c:\users\shiko.ismaelwael\desktop\c programs\ch.6\exercises\dice rolling (fig. 6.19)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

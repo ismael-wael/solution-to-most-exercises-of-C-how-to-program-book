@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551106793 source:d:\embedded\software track\c how to program chapter 5 & 6\exercises\ch.6\exercises\6.23(turtle graphics)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

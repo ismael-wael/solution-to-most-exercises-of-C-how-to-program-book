@@ -1,0 +1,7 @@
+áÇä
+malloc
+free
+Ïæá ãÔ İì 
+misra rule
+áĞáß ÈäÓÊÎÏã
+array based implementation

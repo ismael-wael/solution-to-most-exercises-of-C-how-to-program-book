@@ -1,0 +1,3 @@
+#include <unistd.h>
+
+sleep(1); //sleep for 1 second

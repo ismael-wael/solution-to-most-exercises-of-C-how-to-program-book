@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1552034436 source:c:\users\lenovo\desktop\0\c & c++\c programs\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554917628 source:c:\users\lenovo\desktop\0\mind\c\c programs\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1555452198 source:c:\users\lenovo\desktop\0\c\c programs\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hello.h"
+
+1555452298 c:\users\lenovo\desktop\0\c\c programs\hold\hello.h
+
+1567300225 source:d:\career\software\projects\c\c programs\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567296625 source:c:\users\mansi\desktop\c\c programs\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575107484 source:d:\focus\c how to program chapter 5 & 6\exercises\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1578500372 source:d:\embedded\software track\c how to program chapter 5 & 6\exercises\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576230264 d:\embedded\software track\c how to program chapter 5 & 6\exercises\hold\lib_stdtypes.h
+
+1583748020 source:d:\embedded\c how to program\exercises\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584298452 source:d:\embedded\when embedded is my goal\secondary stream\c how to program\exercises\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587673733 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602624865 source:d:\career\books\c\c how to program\hold\main.c
+	<stdio.h>
+	<stdlib.h>
+

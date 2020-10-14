@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583123984 source:d:\embedded\c how to program\exercises\ch.7\exercises\7.17( tortoise and the hare )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531999822 source:c:\users\shiko.ismaelwael\desktop\c programs\ch.5\exercises\5.14(a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

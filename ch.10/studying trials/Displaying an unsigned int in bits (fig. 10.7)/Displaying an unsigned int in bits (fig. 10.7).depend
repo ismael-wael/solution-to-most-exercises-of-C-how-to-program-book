@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587611867 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.10\studying trials\displaying an unsigned int in bits (fig. 10.7)\main.c
+	<stdio.h>
+	<stdlib.h>
+

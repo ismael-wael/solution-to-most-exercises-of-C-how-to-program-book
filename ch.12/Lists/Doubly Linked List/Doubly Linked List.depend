@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586327186 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\lists\doubly linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doubly_linked_list.h"
+
+1586318222 c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\lists\doubly linked list\doubly_linked_list.h
+
+1586327418 source:c:\users\elsa7er\desktop\Ã\engineering\track ii\exercises\ch.12\lists\doubly linked list\doubly_linked_list.c
+	"doubly_linked_list.h"
+	<stdlib.h>
+

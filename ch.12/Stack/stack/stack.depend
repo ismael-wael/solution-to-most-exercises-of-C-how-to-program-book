@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585234327 source:c:\users\elsa7er\desktop\data structure - waleed yousef\exercises\ch.12\stack\stack\main.c
+	<stdio.h>
+	"stack.h"
+
+1585234465 c:\users\elsa7er\desktop\data structure - waleed yousef\exercises\ch.12\stack\stack\stack.h
+
+1585234281 source:c:\users\elsa7er\desktop\data structure - waleed yousef\exercises\ch.12\stack\stack\stack.c
+	"stack.h"
+	<stdlib.h>
+
